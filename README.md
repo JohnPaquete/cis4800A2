@@ -11,6 +11,6 @@ An OpenGl program in C that draws a sphere with different shading options
 
 To compile you must install the freeGlut and OpenGl libraries then type make in the command line.
 
-The makefile contains the code to compile for both Linux and MacOs, just uncomment the desired line.
+The makefile contains the code to compile for both Linux and MacOs, just uncomment the desired line then swap the comments in the headers in a.c
 
 To run type ./a <input file>
